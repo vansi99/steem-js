@@ -1,6 +1,6 @@
 {
   "name": "nftauto-steem-js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Steem.js the JavaScript API for Steem blockchain",
   "main": "lib/index.js",
   "scripts": {
