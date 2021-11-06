@@ -3042,6 +3042,11 @@ strip-json-comments@~2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/strip-json-comments/-/strip-json-comments-2.0.1.tgz#3c531942e908c2697c0ec344858c286c7ca0a60a"
 
+sumi-hash@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/sumi-hash/-/sumi-hash-1.0.1.tgz#5bc1f40e31b20cf99c7e1cec3517825464bd6742"
+  integrity sha1-W8H0DjGyDPmcfhzsNReCVGS9Z0I=
+
 supports-color@3.1.2, supports-color@^3.1.0:
   version "3.1.2"
   resolved "https://registry.yarnpkg.com/supports-color/-/supports-color-3.1.2.tgz#72a262894d9d408b956ca05ff37b2ed8a6e2a2d5"
