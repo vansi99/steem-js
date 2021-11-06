@@ -1,6 +1,6 @@
 {
-  "name": "@vansi99/steem-js",
-  "version": "1.0.0",
+  "name": "nftauto-steem-js",
+  "version": "1.0.1",
   "description": "Steem.js the JavaScript API for Steem blockchain",
   "main": "lib/index.js",
   "scripts": {
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/steemit/steem-js.git"
+    "url": "git+https://github.com/vansi99/steem-js.git"
   },
   "keywords": [
     "steem",
