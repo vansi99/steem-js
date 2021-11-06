@@ -1,5 +1,5 @@
 {
-  "name": "@nftauto/steem-js",
+  "name": "@vansi99/steem-js",
   "version": "1.0.0",
   "description": "Steem.js the JavaScript API for Steem blockchain",
   "main": "lib/index.js",
